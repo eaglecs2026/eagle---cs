@@ -9,7 +9,7 @@ const translations = {
     sectionStaff:"CONTACT THE TEAM",staffTitle:"NEED<br><em>BACKUP?</em>",staffCopy:"Questions, feedback, or a problem with the community? Contact the staff through the official channel below.",staffRole:"COMMUNITY STAFF",staffContactTitle:"Talk to the team",staffContactCopy:"Use our Discord support channel for questions and follow-up.",openDiscord:"Open Discord",discordNote:"Before publishing, replace the Discord link in index.html with your server invite or support channel URL.",footerCopy:"Official community website. Play fair. Respect everyone.",backTop:"BACK TO TOP ↑"
   },
   ar: {
-    tagline:"الموقع الرسمي لمجتمع كونتر سترايك",navHome:"الرئيسية",navNews:"الأخبار",navReport:"التبليغ عن لاعب",navStaff:"تواصل مع الإدارة",
+    tagline"الموقع الرسمي لمجتمع EAGLE - CS",navHome:"الرئيسية",navNews:"الأخبار",navReport:"التبليغ عن لاعب",navStaff:"تواصل مع الإدارة",
     eyebrow:"المجتمع • الانضباط • الاحترام",heroCopy:"مجتمع مبني على العمل الجماعي واللعب النظيف والاحترام. مرحباً بكم في الموقع الرسمي لـ EAGLE - CS.",reportCta:"بلّغ عن لاعب",newsCta:"آخر الإعلانات",officialSite:"الموقع الرسمي",
     sectionIntro:"مجتمعنا",introTitle:"مجتمع واحد.<br><em>معايير واحدة.</em>",introCopy:"EAGLE - CS هو مجتمع كونتر سترايك للاعبين الذين يقدّرون اللعب النظيف والعمل الجماعي. تابعوا الإعلانات واحترموا القوانين وتواصلوا مع الإدارة عند الحاجة.",
     featureOneTitle:"اللعب النظيف",featureOneCopy:"ساعدونا في الحفاظ على مباريات عادلة عبر التبليغ عن السلوك المشبوه مع تفاصيل واضحة.",featureTwoTitle:"التحديثات الرسمية",featureTwoCopy:"تابعوا هذه الصفحة لمعرفة أخبار السيرفر والتغييرات وإعلانات المجتمع.",featureThreeTitle:"دعم الإدارة",featureThreeCopy:"تواصلوا مع الفريق بخصوص التبليغات أو الأسئلة أو مشاكل المجتمع.",
